@@ -34,7 +34,7 @@ const Cart = () => {
                 </div>
         </>
       ) : (
-        <p style={{ textAlign: 'center' }}>Your cart iss empty.</p>
+        <p style={{ textAlign: 'center' }}>Your cart is empty.</p>
       )}
     </div>
   );
